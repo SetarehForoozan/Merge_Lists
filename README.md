@@ -1,4 +1,4 @@
-##Merge_Lists
+#Merge_Lists
 
 The merge_lists.ipynb file contains a code that takes three lists as input, and merges the first two, removes the third, and returns a list:
 
