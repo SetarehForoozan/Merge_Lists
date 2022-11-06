@@ -7,6 +7,7 @@ The merge_lists.ipynb file contains a code that takes three lists as input, and 
 -- Most character count to least character count
 -- In the event of a tie, reverse alphabetical
 
+Programming language: Python
 This repository is made for a job application assignment.
 
 Setareh
