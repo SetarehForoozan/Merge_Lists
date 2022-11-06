@@ -8,6 +8,7 @@ The merge_lists.ipynb file contains a code that takes three lists as input, and 
 -- In the event of a tie, reverse alphabetical
 
 Programming language: Python
+
 This repository is made for a job application assignment.
 
 Setareh
